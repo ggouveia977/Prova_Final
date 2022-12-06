@@ -1,0 +1,17 @@
+# ### Listar os usuarios
+# GET https://localhost:5001/api/usuario/listar
+
+### Cadastrar um IMC
+POST https://localhost:5001/api/imc/cadastrar
+Content-Type: application/json
+
+{
+    "usuarioid" : 1,
+    "altura" : 179,
+    "peso" : 85
+}
+
+### Listar IMCs
+GET https://localhost:5001/api/imc/listar
+
+

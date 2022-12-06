@@ -1,0 +1,23 @@
+### Listar os usuários
+GET https://localhost:5001/api/usuario/listar
+
+### Cadastrar um usuário
+POST https://localhost:5001/api/usuario/cadastrar
+Content-Type: application/json
+
+{
+    "nome" : "Gabriel",
+    "nascimento" : "2022-12-06"
+}
+
+### Buscar um usuário pelo Id
+GET https://localhost:5001/api/usuario/buscar/1
+
+### Alterar um usuário
+PATCH  https://localhost:5001/api/usuario/alterar
+Content-Type: application/json
+
+{
+    "id" : 3,
+    "nome" : "Gabriel Teste"
+}

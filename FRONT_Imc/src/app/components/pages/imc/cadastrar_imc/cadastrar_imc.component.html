@@ -1,0 +1,22 @@
+<mat-card class="container">
+  <mat-card-header> <mat-card-title> Cadastrar Imc </mat-card-title> </mat-card-header>
+  <mat-card-content>
+    <mat-form-field id="valor" class="input">
+      <mat-label for="txtValor">Altura:</mat-label>
+      <input matInput type="number" id="txtValor" [(ngModel)]="valor" />
+    </mat-form-field>
+    <mat-form-field id="quantidade" class="input">
+      <mat-label for="txtQuantidade">Peso:</mat-label>
+      <input matInput type="number" id="txtQuantidade" [(ngModel)]="quantidade" />
+    </mat-form-field>
+    <mat-form-field id="usuarios" class="input">
+      <mat-label for="selUsuarios">Usuários</mat-label>
+      <mat-select [(ngModel)]="usuarioId">
+        <mat-option *ngFor="let usuario of usuarios" value="{{ usuario.id }}">
+          {{ usuario.id }} - {{ usuario.nome }}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+  </mat-card-content>
+  <button mat-raised-button color="warn" id="btnCadastrar" (click)="cadastrar()">Cadastrar</button>
+</mat-card>

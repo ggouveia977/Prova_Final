@@ -1,0 +1,7 @@
+C:\Users\06401296925\Downloads\DesenvolvimentoVisualTerca-master\DesenvolvimentoVisualTerca-master\API_Folha\obj\Debug\net5.0\API_Folha.csproj.AssemblyReference.cache
+C:\Users\06401296925\Downloads\DesenvolvimentoVisualTerca-master\DesenvolvimentoVisualTerca-master\API_Folha\obj\Debug\net5.0\API_Folha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06401296925\Downloads\DesenvolvimentoVisualTerca-master\DesenvolvimentoVisualTerca-master\API_Folha\obj\Debug\net5.0\API_Folha.AssemblyInfoInputs.cache
+C:\Users\06401296925\Downloads\DesenvolvimentoVisualTerca-master\DesenvolvimentoVisualTerca-master\API_Folha\obj\Debug\net5.0\API_Folha.AssemblyInfo.cs
+C:\Users\06401296925\Downloads\DesenvolvimentoVisualTerca-master\DesenvolvimentoVisualTerca-master\API_Folha\obj\Debug\net5.0\API_Folha.csproj.CoreCompileInputs.cache
+C:\Users\06401296925\Downloads\DesenvolvimentoVisualTerca-master\DesenvolvimentoVisualTerca-master\API_Folha\obj\Debug\net5.0\API_Folha.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\06401296925\Downloads\DesenvolvimentoVisualTerca-master\DesenvolvimentoVisualTerca-master\API_Folha\obj\Debug\net5.0\API_Folha.MvcApplicationPartsAssemblyInfo.cache
